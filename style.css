@@ -7,7 +7,7 @@ body{
 
 #header{
     height: 100vh;
-    background: url(/Github/img/bg.jpg);
+    background: url(img/bg.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -316,7 +316,7 @@ body{
 .contact{
     padding-top: 50px;
     padding-bottom: 50px;
-    background: url(/Github/img/contact\ bg.jpg);    
+    background: url(img/contact\ bg.jpg);    
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
