@@ -236,6 +236,10 @@ body{
     background-color: rgb(236, 185, 148);
     color: rgb(161, 0, 30);
 }
+.link p{
+    position: relative;
+    animation: mymove 3s infinite;
+}
 
 /* services */
 
