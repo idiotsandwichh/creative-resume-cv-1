@@ -8,7 +8,7 @@ body{
 
 #header{
     height: 100vh;
-    background: url(img/bg1.jpg);
+    background: url(img/bg2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -322,11 +322,11 @@ body{
 .contact{
     padding-top: 50px;
     padding-bottom: 50px;
-    background: url(img/bg1.jpg);    
+    background: url(img/bg2.jpg);    
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    color: darkpink;
+    color: red;
     font-weight: 700;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -355,7 +355,7 @@ body{
     border-radius: 30px;
     border: 2px solid saddlebrown;
     background: transparent;
-    color: darkpink;
+    color: red;
     font-weight: 700;
     font-family: 'Ubuntu', sans-serif;
 }
