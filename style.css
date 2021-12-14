@@ -322,11 +322,11 @@ body{
 .contact{
     padding-top: 50px;
     padding-bottom: 50px;
-    background: url(img/bg.jpg);    
+    background: url(img/bg1.jpg);    
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    color: white;
+    color: darkpink;
     font-weight: 700;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -337,7 +337,7 @@ body{
     color: rgb(31, 22, 0);
     background-color: lavender;
     border-radius: 50%;    
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif !important;
 }
 
 .contact .row:hover{
@@ -355,7 +355,7 @@ body{
     border-radius: 30px;
     border: 2px solid saddlebrown;
     background: transparent;
-    color: white;
+    color: darkpink;
     font-weight: 700;
     font-family: 'Ubuntu', sans-serif;
 }
