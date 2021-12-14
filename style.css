@@ -419,3 +419,19 @@ body{
     width: 80px;
     transition: 1s;
 }
+#blog{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#blog h3{
+  color: rgb(143, 0, 0);
+  background-color: lavenderblush;
+  font-size: 25px !important;
+  font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#blog a{
+    color: rgb(11, 0, 165);
+    font-weight: 600;
+    text-decoration: none;
+}
