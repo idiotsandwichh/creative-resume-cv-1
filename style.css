@@ -326,8 +326,9 @@ body{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    color: rgb(0, 73, 56);
+    color: white;
     font-weight: 700;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .contact .row{
@@ -336,6 +337,7 @@ body{
     color: rgb(31, 22, 0);
     background-color: lavender;
     border-radius: 50%;    
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .contact .row:hover{
@@ -353,8 +355,9 @@ body{
     border-radius: 30px;
     border: 2px solid saddlebrown;
     background: transparent;
-    color: rgb(41, 7, 1);
+    color: white;
     font-weight: 700;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .contact .btn:focus{
